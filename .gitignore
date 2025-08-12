@@ -74,6 +74,7 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # Others
+Config/*
 Scripts/*
 *.gguf
 *.gguf.*
