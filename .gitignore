@@ -91,3 +91,6 @@ Scripts/*
 Notes/*
 *.gguf
 *.gguf.*
+
+# Other Whitelist
+!Config/DefaultPakFileRules.ini
