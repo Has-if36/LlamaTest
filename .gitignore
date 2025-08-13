@@ -80,6 +80,14 @@ ThirdParty/LlamaCpp/Win64/Cuda/cudart.lib
 ThirdParty/LlamaCpp/Win64/Cuda/cublas.lib
 ThirdParty/LlamaCpp/Win64/Cuda/cuda.lib
 
+# Whitelist Llama Plugin
+!Plugins/Llama/LICENSE
+!Plugins/Llama/Llama.uplugin
+!Plugins/Llama/README.md
+!Plugins/Llama/Source
+!Plugins/Llama/ThirdParty/hnswlib
+!Plugins/Llama/ThirdParty/LlamaCpp
+
 # Others
 Config/*
 Scripts/*
