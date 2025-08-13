@@ -40,5 +40,13 @@ If you change DA or Primary Asset Type names, you must fix references, since the
 
 <br/>
 
+##### Step 6:
+
+Confirm the pak chunk file being generated which should be in `Saved/StagedBuild/Builds]/[ProjectName]/Content/Paks`
+
+After confirming it, override pak chunk files using [`Config/DefaultPakFileRules.ini`](../../../Config/DefaultPakFileRules.ini)
+
+<br/>
+
 ## Reference
 https://forums.unrealengine.com/t/setup-primary-assets-via-blueprint-for-asset-manager-scan/559269/7
