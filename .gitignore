@@ -88,5 +88,6 @@ Plugins/Llama/ThirdParty/*
 # Others
 Config/*
 Scripts/*
+Notes/*
 *.gguf
 *.gguf.*

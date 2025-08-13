@@ -20,3 +20,7 @@ It uses model in gguf format and is stored in `./Saved/Models` which in this cas
 | [<img src="./Documentation/Images/image_3.jpg" height="600"/>](./Documentation/Images/image_3.jpg) | 
 |:--:| 
 | *Android ARM* |
+
+### Extra Notes
+
+- [Creating Dummy Asset to Generate Pak File](./Documentation/Notes/PrimaryAssetId/README.md)
