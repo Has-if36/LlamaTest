@@ -1,0 +1,3 @@
+[submodule "Plugins/Llama"]
+	path = Plugins/Llama
+	url = https://github.com/Has-if36/Llama-Unreal.git
